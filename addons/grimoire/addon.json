@@ -1,0 +1,28 @@
+{
+  "slug": "grimoire",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-10-29T05:43:32.104Z",
+      "size": 108801,
+      "file": "capecraft-grimoire-1.0.0-26.2.jar",
+      "asset": "grimoire-1.0.0.jar",
+      "tag": "grimoire@1.0.0",
+      "changelog": "мод выпущен в релиз"
+    }
+  ],
+  "name": "CapeCraft: Grimoire",
+  "author": "GG_TV | GGSHNIKK",
+  "description": "Плащ — страница книги заклинаний: рунный круг с орбитальными рунами, сигил школы, переходы и резонансы. Магия подстраивается под твой мир. Аддон для CapeCraft (MC 26.2, Fabric).",
+  "tags": [
+    "magic",
+    "particles",
+    "cape"
+  ],
+  "updatedAt": "2026-10-29T05:43:32.104Z",
+  "channels": {
+    "stable": "1.0.0"
+  },
+  "latest": "1.0.0"
+}
