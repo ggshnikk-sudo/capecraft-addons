@@ -1,0 +1,30 @@
+{
+  "slug": "backfeed",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-10-29T05:37:30.117Z",
+      "size": 117521,
+      "file": "capecraft-backfeed-1.0.0-26.2.jar",
+      "asset": "backfeed-1.0.0.jar",
+      "tag": "backfeed@1.0.0",
+      "changelog": "мод выпущен в релиз"
+    }
+  ],
+  "name": "CapeCraft: Backfeed",
+  "author": "GG_TV | GGSHNIKK",
+  "description": "Твой плащ — живой экран: терминал, радар, ЭКГ и живое небо, перекраска ~10 раз/сек. Клиентский аддон для CapeCraft (MC 26.2, Fabric).",
+  "tags": [
+    "radar",
+    "terminal",
+    "sky",
+    "pulse",
+    "cape"
+  ],
+  "updatedAt": "2026-10-29T05:37:30.117Z",
+  "channels": {
+    "stable": "1.0.0"
+  },
+  "latest": "1.0.0"
+}
