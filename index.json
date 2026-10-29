@@ -2,31 +2,6 @@
   "generatedAt": "2026-10-29T05:50:47.370Z",
   "addons": [
     {
-      "slug": "catsmoke1793253029656",
-      "name": "Catalog Smoke 1793253029656",
-      "author": "Smoke",
-      "description": "temporary catalog freshness check",
-      "tags": [
-        "smoke"
-      ],
-      "updatedAt": "2026-10-29T05:50:45.937Z",
-      "preview": null,
-      "latest": "1.0.0",
-      "channels": {
-        "stable": "1.0.0"
-      },
-      "versions": [
-        {
-          "version": "1.0.0",
-          "channel": "stable",
-          "publishedAt": "2026-10-29T05:50:45.937Z",
-          "size": 108801,
-          "changelog": "auto test",
-          "url": "https://github.com/ggshnikk-sudo/capecraft-addons/releases/download/catsmoke1793253029656@1.0.0/catsmoke1793253029656-1.0.0.jar"
-        }
-      ]
-    },
-    {
       "slug": "grimoire",
       "name": "CapeCraft: Grimoire",
       "author": "GG_TV | GGSHNIKK",
