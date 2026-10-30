@@ -26,5 +26,6 @@
   "channels": {
     "stable": "1.0.0"
   },
-  "latest": "1.0.0"
+  "latest": "1.0.0",
+  "owner": "i3667563@gmail.com"
 }
