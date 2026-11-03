@@ -1,0 +1,31 @@
+{
+  "slug": "psycho",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "channel": "stable",
+      "publishedAt": "2026-11-03T02:59:36.776Z",
+      "size": 127112,
+      "file": "capecraft-psycho-1.1.1-26.2.jar",
+      "asset": "psycho-1.1.1.jar",
+      "tag": "psycho@1.1.1",
+      "changelog": "мод выпущен в релиз"
+    }
+  ],
+  "owner": "i3667563@gmail.com",
+  "name": "CapeCraft: Psycho",
+  "author": "GG_TV | GGSHNIKK",
+  "description": "Плащ — карта пациента: 15 диагнозов с ирис-переходами, а на экране — симптомы: ч/б, кассета, пиксели, дремота. Диагноз выбирает твой мир. Аддон для CapeCraft (MC 26.2, Fabric).",
+  "tags": [
+    "badtrip",
+    "narkota",
+    "geroin",
+    "cape",
+    "i_love_kurit_travka"
+  ],
+  "updatedAt": "2026-11-03T02:59:36.776Z",
+  "channels": {
+    "stable": "1.1.1"
+  },
+  "latest": "1.1.1"
+}

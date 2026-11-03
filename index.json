@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-29T05:50:47.370Z",
+  "generatedAt": "2026-11-03T02:59:38.610Z",
   "addons": [
+    {
+      "slug": "psycho",
+      "name": "CapeCraft: Psycho",
+      "author": "GG_TV | GGSHNIKK",
+      "description": "Плащ — карта пациента: 15 диагнозов с ирис-переходами, а на экране — симптомы: ч/б, кассета, пиксели, дремота. Диагноз выбирает твой мир. Аддон для CapeCraft (MC 26.2, Fabric).",
+      "tags": [
+        "badtrip",
+        "narkota",
+        "geroin",
+        "cape",
+        "i_love_kurit_travka"
+      ],
+      "updatedAt": "2026-11-03T02:59:36.776Z",
+      "preview": "https://raw.githubusercontent.com/ggshnikk-sudo/capecraft-addons/main/addons/psycho/preview.png?v=2026-11-03T02%3A59%3A36.776Z",
+      "latest": "1.1.1",
+      "channels": {
+        "stable": "1.1.1"
+      },
+      "versions": [
+        {
+          "version": "1.1.1",
+          "channel": "stable",
+          "publishedAt": "2026-11-03T02:59:36.776Z",
+          "size": 127112,
+          "changelog": "мод выпущен в релиз",
+          "url": "https://github.com/ggshnikk-sudo/capecraft-addons/releases/download/psycho@1.1.1/psycho-1.1.1.jar"
+        }
+      ]
+    },
     {
       "slug": "grimoire",
       "name": "CapeCraft: Grimoire",
